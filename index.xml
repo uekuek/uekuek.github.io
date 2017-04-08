@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UEK</title>
-    <link>/index.xml</link>
+    <link>/australiamotorcyclerental.com/index.xml</link>
     <description>Recent content on UEK</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-au</language>
+    <atom:link href="/australiamotorcyclerental.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>/</link>
+      <link>/australiamotorcyclerental.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/</guid>
+      <guid>/australiamotorcyclerental.com/</guid>
       <description>
 
 &lt;h1 id=&#34;uek&#34;&gt;uek&lt;/h1&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title></title>
-      <link>/introduction/</link>
+      <link>/australiamotorcyclerental.com/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/introduction/</guid>
+      <guid>/australiamotorcyclerental.com/introduction/</guid>
       <description>
 
 &lt;h1 id=&#34;test&#34;&gt;test&lt;/h1&gt;
