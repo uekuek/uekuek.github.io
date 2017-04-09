@@ -34,7 +34,7 @@ a.active {
     outline: 0;
 }
 
-a {
+a, .btn-link {
     color: #fed136;
 }
 
@@ -960,4 +960,8 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #fed136;
-}-
+}
+
+.left {
+    text-align: left;
+}
