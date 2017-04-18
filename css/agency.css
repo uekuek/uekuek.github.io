@@ -831,12 +831,12 @@ footer ul.quicklinks {
     line-height: 40px;
 }
 
-ul.social-buttons {
+ul.social-buttons, .social-links, .footer-modal {
     margin-top: 20px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
-ul.social-buttons li a {
+ul.social-buttons li a, .social-links {
     display: block;
     width: 40px;
     height: 40px;
@@ -964,4 +964,8 @@ body {
 
 .left {
     text-align: left;
+}
+
+.footer-row {
+    background-color: #333;
 }
