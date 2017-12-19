@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://australiamotorcyclerental.com/</loc>
+    <priority>0</priority>
+  </url>
   
   <url>
     <loc>http://australiamotorcyclerental.com/</loc>
@@ -8,26 +12,6 @@
   
   <url>
     <loc>http://australiamotorcyclerental.com/introduction/</loc>
-  </url>
-  
-  <url>
-    <loc>http://australiamotorcyclerental.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://australiamotorcyclerental.com/introduction/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://australiamotorcyclerental.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://australiamotorcyclerental.com/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
